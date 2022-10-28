@@ -1,0 +1,728 @@
+# Translation of Themes - Qi in Turkish
+# This file is distributed under the same license as the Themes - Qi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-25 17:04:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Qi\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Qi theme is the latest free offering developed by Qode Interactive, winners of multiple awards and accolades in the fields of web design and development and one of bestselling WordPress theme creators. We approached Qi the same way we do when we develop premium themes - this means that the theme features comprehensive modules for your portfolio, shop, blog, a beautiful selection of contemporary premade inner page templates great for a wide array of purposes, and all the options and functionalities you may ever need to set up a professional website the easy way. Qi theme features 100 beautifully designed starter sites for all types of modern websites. Alongside stunningly designed websites for all types of businesses including spa, beauty salon, medical, SaaS, marketing, gym, and dentist websites, just to name a few, Qi also has a huge collection of sites great for personal uses. Do you wish to create a new CV or a resume, or perhaps you are a restaurant owner, a videographer or an SEO expert? Or maybe you’re just looking for a captivating yet simple way to announce your wedding? Whatever it might be, Qi has you covered! Top all this off with the authentic design style that Qode Interactive collective is known for, and you get a true creative powerhouse that’s fast, reliable and comes with virtually limitless customization options!"
+msgstr "Qi teması, web tasarımı ve geliştirme alanlarında birçok ödül ve övgü kazanan ve en çok satan WordPress tema yaratıcılarından biri olan Qode Interactive tarafından geliştirilen en son ücretsiz tekliftir. Qi'ye premium temaları geliştirirken olduğu gibi yaklaştık - Bu, temanın portföyünüz, mağazanız, blogunuz için kapsamlı modüller, çok çeşitli amaçlara uygun özenle seçilmiş modern hazır sayfa şablonları ve profesyonel bir web sitesini en kolay şekilde oluşturmak için tüm seçenek ve işlevleri içerdiği anlamına gelir. Qi teması, modern her tür web sitesi için uygun, harika görünümlü, 100 başlangıç sitesi içerir.  Qi, spa, güzellik salonu, medikal, SaaS, pazarlama, spor salonu ve diş hekimi gibi her tür işletme için uygun çarpıcı tasarımların yanı sıra kişisel kullanımlar içinde geniş bir site koleksiyonu içerir. Yeni bir CV veya özgeçmiş oluşturmak mı istiyorsunuz? Yoksa bir restoran sahibi, kameraman veya SEO uzmanı mısınız? Yoksa düğününüzü duyurmak için çekici ve basit bir yol mu arıyorsunuz? İhtiyacınız ne olursa olsun Qi bunu karşılıyor. Tüm bunları Qode Interactive'in bilinen özgün tasarım stili ile elde eder, hızlı, güvenilir ve neredeyse sınırsız özelleştirme seçenekleri ile gelen gerçek bir kreatif güce sahip olursunuz."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Qi"
+msgstr "Qi"
+
+#: functions.php:300
+msgctxt "Theme starter content"
+msgid "Meta"
+msgstr "Meta"
+
+#: functions.php:292
+msgctxt "Theme starter content"
+msgid "Archives"
+msgstr "Arşivler"
+
+#: functions.php:284
+msgctxt "Theme starter content"
+msgid "Recent Posts"
+msgstr "Son Yazılar"
+
+#: functions.php:276
+msgctxt "Theme starter content"
+msgid "Recent Comments"
+msgstr "Son yorumlar"
+
+#: functions.php:268
+msgctxt "Theme starter content"
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: functions.php:258
+msgctxt "Theme starter content"
+msgid "This may be a good place to introduce yourself and your site or include some credits."
+msgstr "Burası kendinizi ya da sitenizi tanıtmak, ya da emeği geçenlerden bahsetmek için iyi bir yer olabilir."
+
+#: functions.php:257
+msgctxt "Theme starter content"
+msgid "About This Site"
+msgstr "Bu site hakkında"
+
+#: functions.php:242
+msgid "Primary Navigation"
+msgstr "Birincil dolaşım:"
+
+#: functions.php:231
+msgctxt "Theme starter content"
+msgid "Logo"
+msgstr "Logo"
+
+#: searchform.php:8
+msgid "Search"
+msgstr "Ara"
+
+#: searchform.php:6
+msgid "search for:"
+msgstr "şunun için ara:"
+
+#. Template Name of the theme
+msgid "Qi Landing"
+msgstr "Qi Açılış sayfası"
+
+#. Template Name of the theme
+msgid "Qi Full Width"
+msgstr "Qi tam genişlik"
+
+#: inc/woocommerce/helper.php:248
+msgid "Very poor"
+msgstr "Çok kötü"
+
+#: inc/woocommerce/helper.php:247
+msgid "Not that bad"
+msgstr "Kötü değil"
+
+#: inc/woocommerce/helper.php:246
+msgid "Average"
+msgstr "Ortalama"
+
+#: inc/woocommerce/helper.php:245
+msgid "Good"
+msgstr "İyi"
+
+#: inc/woocommerce/helper.php:244
+msgid "Perfect"
+msgstr "Mükemmel"
+
+#: inc/woocommerce/helper.php:243
+msgid "Rate&hellip;"
+msgstr "Derecelendir&hellip;"
+
+#: inc/woocommerce/helper.php:240
+msgid "Your Rating "
+msgstr "Derecelendirmeniz"
+
+#: inc/woocommerce/helper.php:148 inc/woocommerce/helper.php:190
+msgid "Shop"
+msgstr "Mağaza"
+
+#: inc/title/helper.php:62
+msgid "404 - Page not found"
+msgstr "404 - Sayfa bulunamadı"
+
+#: inc/title/helper.php:60
+msgid "Search results for: "
+msgstr "Şunun için sonuçları ara:"
+
+#: inc/title/helper.php:58
+msgid "Archive"
+msgstr "Arşivle"
+
+#: inc/title/helper.php:54
+msgid "Author: "
+msgstr "Yazar:"
+
+#: inc/title/helper.php:50
+msgid " Tag"
+msgstr "Etiket"
+
+#: inc/search/templates/parts/search-form.php:6
+msgid "If you are not happy with the results below please do another search"
+msgstr "Aşağıdaki sonuçlardan memnun değilseniz lütfen yeni bir arama yapın"
+
+#: inc/search/templates/parts/search-form.php:2
+msgid "New search:"
+msgstr "Yeni arama:"
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:134
+msgid "Activated"
+msgstr "Etkinleştirin"
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:127
+msgid "Installed and activated"
+msgstr "Kurulmuş ve etkinleştirilmiş"
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:61
+msgid "Installing..."
+msgstr "Yükleniyor..."
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:61
+msgid "Activating..."
+msgstr "Etkinleştiriliyor..."
+
+#. translators: %s: <strong> <a>
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:59
+msgid "Install %1$sQode Essential Addons%2$s to launch an optimized design in minutes."
+msgstr "Dakikalar için en iyi hale getirilmiş bir tasarım ile yola çıkmak için %1$sQode Temel Eklentileri%2$sni kurun."
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:58
+msgid "Thanks for choosing QI Theme!"
+msgstr "QI temasını seçtiğiniz için teşekkür ederiz!"
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:49
+msgid "Activate Qode Essential Addons"
+msgstr "Temel Qode eklentilerini etkinleştir"
+
+#: inc/qode-essential-addons/class-qodeessentialaddons-installation-notice.php:46
+msgid "Install Qode Essential Addons"
+msgstr "Temel Qode eklentilerini kur"
+
+#: inc/pagination/helper.php:10
+msgid "Pages: "
+msgstr "Sayfalar:"
+
+#: inc/nav-menu/helper.php:65
+msgid "Show sub menu"
+msgstr "Alt menüyü göster"
+
+#: inc/mobile-header/templates/parts/mobile-navigation.php:2
+msgid "Mobile Menu"
+msgstr "Mobil menü"
+
+#: inc/mobile-header/templates/parts/mobile-navigation-opener.php:2
+#: inc/nav-menu/helper.php:65
+msgid "Open the menu"
+msgstr "Menüyü aç"
+
+#: inc/mobile-header/helper.php:20
+msgid "Mobile Navigation"
+msgstr "Mobil dolaşım"
+
+#: inc/import/class-qi-import.php:782
+msgid "Import Qi demos with ease"
+msgstr "Qi örneklerini kolayca içe aktarın"
+
+#: inc/import/class-qi-import.php:141
+msgid "Patisserie"
+msgstr "Pastane"
+
+#: inc/import/class-qi-import.php:140
+msgid "Interior Design"
+msgstr "İç mimarlık"
+
+#: inc/import/class-qi-import.php:139
+msgid "Wedding Photography"
+msgstr "Düğün fotoğrafçılığı"
+
+#: inc/import/class-qi-import.php:138
+msgid "Oil Industry"
+msgstr "Petrol endüstrisi"
+
+#: inc/import/class-qi-import.php:137
+msgid "Art Gallery"
+msgstr "Sanat galerisi"
+
+#: inc/import/class-qi-import.php:136
+msgid "Personal Portfolio"
+msgstr "Kişisel portföy"
+
+#: inc/import/class-qi-import.php:135
+msgid "Movie Portfolio"
+msgstr "Film portföyü"
+
+#: inc/import/class-qi-import.php:134
+msgid "Makeup"
+msgstr "Makyaj"
+
+#: inc/import/class-qi-import.php:133
+msgid "Modeling Agency"
+msgstr "Modelleme ajansı"
+
+#: inc/import/class-qi-import.php:132
+msgid "Environmental NGO"
+msgstr "Çevresel STK"
+
+#: inc/import/class-qi-import.php:131
+msgid "Art Shop"
+msgstr "Sanat dükkanı"
+
+#: inc/import/class-qi-import.php:130
+msgid "Agency One Page"
+msgstr "Tek sayfa ajans"
+
+#: inc/import/class-qi-import.php:129
+msgid "Branding Portfolio"
+msgstr "Markalaştırma portföyü"
+
+#: inc/import/class-qi-import.php:128
+msgid "Baby Store"
+msgstr "Bebek mağazası"
+
+#: inc/import/class-qi-import.php:127
+msgid "Boutique"
+msgstr "Butik"
+
+#: inc/import/class-qi-import.php:126
+msgid "Concept Art Portfolio"
+msgstr "Kavramsal sanat portföyü"
+
+#: inc/import/class-qi-import.php:125
+msgid "Interactive Photography"
+msgstr "Etkileşimli fotoğrafçılık"
+
+#: inc/import/class-qi-import.php:124
+msgid "Wedding Venue"
+msgstr "Düğün mekanı"
+
+#: inc/import/class-qi-import.php:123
+msgid "SaaS"
+msgstr "SaaS"
+
+#: inc/import/class-qi-import.php:122
+msgid "Barber"
+msgstr "Kuaför"
+
+#: inc/import/class-qi-import.php:121
+msgid "Fast Food"
+msgstr "Fast Food"
+
+#: inc/import/class-qi-import.php:120
+msgid "Tech Agency"
+msgstr "Teknoloji ajansı"
+
+#: inc/import/class-qi-import.php:119
+msgid "Tailor"
+msgstr "Terzi"
+
+#: inc/import/class-qi-import.php:118
+msgid "Garden Design"
+msgstr "Bahçe tasarımı"
+
+#: inc/import/class-qi-import.php:117
+msgid "Hair Salon"
+msgstr "Kuaför salonu"
+
+#: inc/import/class-qi-import.php:116
+msgid "Skincare"
+msgstr "Cilt bakımı"
+
+#: inc/import/class-qi-import.php:115
+msgid "Veterinarian"
+msgstr "Veteriner"
+
+#: inc/import/class-qi-import.php:114
+msgid "CV"
+msgstr "CV"
+
+#: inc/import/class-qi-import.php:113
+msgid "Day Care"
+msgstr "Gündüz bakımı"
+
+#: inc/import/class-qi-import.php:112
+msgid "Photographer"
+msgstr "Fotoğrafçı"
+
+#: inc/import/class-qi-import.php:111
+msgid "Writer"
+msgstr "Yazar"
+
+#: inc/import/class-qi-import.php:110
+msgid "Organic Food"
+msgstr "Organik gıda"
+
+#: inc/import/class-qi-import.php:109
+msgid "Movie Presentation"
+msgstr "Film sunumu"
+
+#: inc/import/class-qi-import.php:108
+msgid "Clothing Store"
+msgstr "Giyim mağazası"
+
+#: inc/import/class-qi-import.php:107
+msgid "Health Center"
+msgstr "Sağlık merkezi"
+
+#: inc/import/class-qi-import.php:106
+msgid "Bed and Breakfast"
+msgstr "Yatak ve kahvaltı"
+
+#: inc/import/class-qi-import.php:105
+msgid "Sports"
+msgstr "Spor"
+
+#: inc/import/class-qi-import.php:104
+msgid "Wedding Announcement"
+msgstr "Düğün duyurusu"
+
+#: inc/import/class-qi-import.php:103
+msgid "Flower Arrangement"
+msgstr "Çiçek aranjmanı"
+
+#: inc/import/class-qi-import.php:102
+msgid "Packaging Design"
+msgstr "Ambalaj tasarımı"
+
+#: inc/import/class-qi-import.php:101
+msgid "Café & Restaurant"
+msgstr "Kafe & Restoran"
+
+#: inc/import/class-qi-import.php:100
+msgid "SEO Company"
+msgstr "SEO şirketi"
+
+#: inc/import/class-qi-import.php:99
+msgid "Agency Dark"
+msgstr "Ajans koyu"
+
+#: inc/import/class-qi-import.php:98
+msgid "Travel Agency"
+msgstr "Seyahat ajansı"
+
+#: inc/import/class-qi-import.php:97
+msgid "Laundry Service"
+msgstr "Çamaşırhane hizmeti"
+
+#: inc/import/class-qi-import.php:96
+msgid "Car Rental"
+msgstr "Otomobil kiralama"
+
+#: inc/import/class-qi-import.php:95
+msgid "Gym"
+msgstr "Spor salonu"
+
+#: inc/import/class-qi-import.php:94
+msgid "Fashion Store"
+msgstr "Moda mağazası"
+
+#: inc/import/class-qi-import.php:93
+msgid "Transport"
+msgstr "Taşıma"
+
+#: inc/import/class-qi-import.php:92
+msgid "Product Photography"
+msgstr "Ürün fotoğrafçılığı"
+
+#: inc/import/class-qi-import.php:91
+msgid "Ice Cream"
+msgstr "Dondurma"
+
+#: inc/import/class-qi-import.php:90
+msgid "Agency Creative"
+msgstr "Kreatif ajans"
+
+#: inc/import/class-qi-import.php:89
+msgid "Wellness"
+msgstr "Sağlık"
+
+#: inc/import/class-qi-import.php:88
+msgid "Beauty Store"
+msgstr "Güzellik salonu"
+
+#: inc/import/class-qi-import.php:87
+msgid "School"
+msgstr "Okul"
+
+#: inc/import/class-qi-import.php:86
+msgid "Video Showcase"
+msgstr "Video gösterimi"
+
+#: inc/import/class-qi-import.php:85
+msgid "Movie Dark"
+msgstr "Film koyu"
+
+#: inc/import/class-qi-import.php:84
+msgid "Cocktail Bar"
+msgstr "Kokteyl bar"
+
+#: inc/import/class-qi-import.php:83
+msgid "3D Modeling Studio"
+msgstr "3D modelleme stüdyosu"
+
+#: inc/import/class-qi-import.php:82
+msgid "Photography Portfolio"
+msgstr "Fotoğraf portföyü"
+
+#: inc/import/class-qi-import.php:81
+msgid "Law Firm"
+msgstr "Hukuk bürosu"
+
+#: inc/import/class-qi-import.php:80
+msgid "Architecture Studio"
+msgstr "Mimarlık stüdyosu"
+
+#: inc/import/class-qi-import.php:79
+msgid "Furniture"
+msgstr "Mobilya"
+
+#: inc/import/class-qi-import.php:78
+msgid "Agency"
+msgstr "Ajans"
+
+#: inc/import/class-qi-import.php:77
+msgid "Cake Shop"
+msgstr "Pastane"
+
+#: inc/import/class-qi-import.php:76
+msgid "Seafood Restaurant"
+msgstr "Deniz ürünleri restoranı"
+
+#: inc/import/class-qi-import.php:75
+msgid "Design Agency"
+msgstr "Tasarım ajansı"
+
+#: inc/import/class-qi-import.php:74
+msgid "Illustration Portfolio"
+msgstr "İllüstrasyon Portföyü"
+
+#: inc/import/class-qi-import.php:73
+msgid "Videographer"
+msgstr "Kameraman"
+
+#: inc/import/class-qi-import.php:72
+msgid "Yoga Studio"
+msgstr "Yoga stüdyosu"
+
+#: inc/import/class-qi-import.php:71
+msgid "Web Studio"
+msgstr "Web stüdyosu"
+
+#: inc/import/class-qi-import.php:70
+msgid "Dog Walker"
+msgstr "Köpek gezdirici"
+
+#: inc/import/class-qi-import.php:69
+msgid "Delivery"
+msgstr "Teslimat"
+
+#: inc/import/class-qi-import.php:68
+msgid "Movie"
+msgstr "Film"
+
+#: inc/import/class-qi-import.php:67
+msgid "3D Modeling Portfolio"
+msgstr "3D modelleme portföyü"
+
+#: inc/import/class-qi-import.php:66
+msgid "Wedding Invitation"
+msgstr "Düğün daveti"
+
+#: inc/import/class-qi-import.php:65
+msgid "Creative Studio"
+msgstr "Kreatif stüdyo"
+
+#: inc/import/class-qi-import.php:64
+msgid "Interior Design Shop"
+msgstr "İç mekan tasarım mağazası"
+
+#: inc/import/class-qi-import.php:63
+msgid "Web Agency"
+msgstr "Web ajansı"
+
+#: inc/import/class-qi-import.php:62
+msgid "Digital Agency"
+msgstr "Dijital ajans"
+
+#: inc/import/class-qi-import.php:61
+msgid "Manicure"
+msgstr "Manikür"
+
+#: inc/import/class-qi-import.php:60
+msgid "Jewelry Store"
+msgstr "Mücevher mağazası"
+
+#: inc/import/class-qi-import.php:59
+msgid "Toy Shop"
+msgstr "Oyuncak mağazası"
+
+#: inc/import/class-qi-import.php:58
+msgid "Sports Shop"
+msgstr "Spor mağazası"
+
+#: inc/import/class-qi-import.php:57
+msgid "App Showcase"
+msgstr "Uygulama tanıtımı"
+
+#: inc/import/class-qi-import.php:56
+msgid "Nutritionist"
+msgstr "Beslenme uzmanı"
+
+#: inc/import/class-qi-import.php:55
+msgid "Vehicle Rental"
+msgstr "Araç kiralama"
+
+#: inc/import/class-qi-import.php:54
+msgid "Product Presentation"
+msgstr "Ürün tanıtımı"
+
+#: inc/import/class-qi-import.php:53
+msgid "Bakery"
+msgstr "Fırın"
+
+#: inc/import/class-qi-import.php:52
+msgid "Restaurant"
+msgstr "Restoran"
+
+#: inc/import/class-qi-import.php:51
+msgid "Translation Company"
+msgstr "Çeviri bürosu"
+
+#: inc/import/class-qi-import.php:50
+msgid "SEO Agency"
+msgstr "SEO ajansı"
+
+#: inc/import/class-qi-import.php:49
+msgid "Party Planner"
+msgstr "Parti organizatörü"
+
+#: inc/import/class-qi-import.php:48
+msgid "Dentist"
+msgstr "Diş hekimi"
+
+#: inc/import/class-qi-import.php:47
+msgid "Coworking Space"
+msgstr "Ortak ofis alanları"
+
+#: inc/import/class-qi-import.php:46
+msgid "Digital Studio"
+msgstr "Dijital stüdyo"
+
+#: inc/import/class-qi-import.php:45
+msgid "Branding Agency"
+msgstr "Markalaşma ajansı"
+
+#: inc/import/class-qi-import.php:44
+msgid "Wedding"
+msgstr "Evlilik"
+
+#: inc/import/class-qi-import.php:43
+msgid "Construction"
+msgstr "İnşaat"
+
+#: inc/import/class-qi-import.php:42
+msgid "Creative Agency"
+msgstr "Kreatif ajans"
+
+#: inc/import/class-qi-import.php:38
+msgid "ProfilePress"
+msgstr "ProfilePress"
+
+#: inc/import/class-qi-import.php:37
+msgid "WPForms Lite"
+msgstr "WPForms Lite"
+
+#: inc/import/class-qi-import.php:36
+msgid "Smash Balloon Social Post Feed"
+msgstr "Smash Balloon Social Post Feed"
+
+#: inc/import/class-qi-import.php:35
+msgid "Custom Twitter Feeds"
+msgstr "Custom Twitter Feeds"
+
+#: inc/import/class-qi-import.php:34
+msgid "Smash Balloon Social Photo Feed"
+msgstr "Smash Balloon Social Photo Feed"
+
+#: inc/import/class-qi-import.php:33
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/import/class-qi-import.php:32
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/import/class-qi-import.php:31
+msgid "Qi Addons For Elementor"
+msgstr "Qi Addons For Elementor"
+
+#: inc/import/class-qi-import.php:30
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/header/templates/parts/navigation.php:2
+msgid "Top Menu"
+msgstr "Üst menü"
+
+#: inc/header/helper.php:20
+msgid "Main Navigation"
+msgstr "Ana dolaşım"
+
+#. translators: %s - added sidebar description increment value
+#: inc/footer/helper.php:100
+msgid "Widgets added here will appear in the %s column of bottom footer area"
+msgstr "Buraya eklenen bileşenler alt kısmın alt bölümündeki %s sütununda görüntülenecek"
+
+#. translators: %s - added sidebar title increment value
+#: inc/footer/helper.php:98
+msgid "Footer Bottom Area - Column %s"
+msgstr "Alt kısım alt bölümü - Sütun %s"
+
+#. translators: %s - added sidebar description increment value
+#: inc/footer/helper.php:90
+msgid "Widgets added here will appear in the %s column of top footer area"
+msgstr "Buraya eklenen bileşenler alt kısmın üst bölümündeki %s sütununda görüntülenecek"
+
+#. translators: %s - added sidebar title increment value
+#: inc/footer/helper.php:88
+msgid "Footer Top Area - Column %s"
+msgstr "Alt kısım üst bölümü - Sütun %s"
+
+#: inc/content/templates/parts/posts-not-found.php:1
+msgid "No posts were found for provided query parameters."
+msgstr "Belirtilen sorgu parametreleri için yazı bulunamadı."
+
+#: inc/contact-form-7/helper.php:35
+msgid "Send"
+msgstr "Gönder"
+
+#: inc/comments/templates/comments.php:27
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı"
+
+#: inc/comments/helper.php:116 inc/comments/templates/comments.php:6
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Yorum"
+msgstr[1] ""
+
+#: inc/blog/templates/parts/post-info/read-more.php:19
+#: inc/qode-essential-addons/blog/templates/parts/post-info/read-more.php:19
+msgid "Read more"
+msgstr "Devamını oku"
+
+#: inc/blog/templates/parts/post-info/read-more.php:10
+#: inc/qode-essential-addons/blog/templates/parts/post-info/read-more.php:10
+msgid "Continue reading"
+msgstr "Okumaya devam et"
+
+#: inc/blog/templates/parts/post-info/author.php:3
+msgid "by"
+msgstr "yazarı"
+
+#: inc/blog/templates/author-info/templates/author.php:8
+msgid "Author"
+msgstr "Yazar"
+
+#. translators: %s - added br HTML tag inside text content
+#: inc/404/templates/404-content.php:7
+msgid "Oops! The page you are looking for does not exist. %sIt might have been moved or deleted."
+msgstr "Tüh! Girmek istediğiniz sayfa mevcut değil. %sTaşınmış ya da silinmiş olabilir."
+
+#: inc/404/templates/404-content.php:2
+msgid "404 - The page is not here."
+msgstr "404 - Bu sayfa mevcut değil."
+
+#: functions.php:110
+msgid "Skip to the content"
+msgstr "İçeriğe atla"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://qodeinteractive.com"
+msgstr "https://qodeinteractive.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Qode Interactive"
+msgstr "Qode Interactive"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://qodeinteractive.com/qi-theme"
+msgstr "https://qodeinteractive.com/qi-theme"
